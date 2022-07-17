@@ -1,4 +1,9 @@
 <resources>
+<<<<<<< HEAD
   <string name="app_name">Hello Andorid World</string>
   <string name="hello_world">Hello Andorid World!</string>
+=======
+  <string name="app_name">Hello World</string>
+  <string name="hello_world">Hello world!</string>
+>>>>>>> ff05e2f4678b749e24b2a87a5ae3521b30f45bfc
 </resources>
